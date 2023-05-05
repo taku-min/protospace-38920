@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  root to : "#index"
+ 
+  root to: 'prototypes#index'
 end
